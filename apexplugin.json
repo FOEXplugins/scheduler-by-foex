@@ -1,0 +1,53 @@
+{
+   "name": "File Upload and Image Editor by FOEX",
+   "version": "20.1.0",
+   "description": "A plug-in with a tonne of features to manage complex schedules. Manage your schedule in timeline, resource, day, week, month or yearly views in your APEX app with zero dependencies! Based on the DHTMLX Scheduler it is a powerhouse scheduling component with a proven track record!",
+   "keywords": [
+      "scheduler",
+      "calendar",
+      "events",
+      "drag",
+      "drop"
+   ],
+   "homepage": "https://www.foex.at/scheduler-by-foex/",
+   "bugs": {
+      "url": "https://plugins.foex.at/home/",
+      "email": "support@foex.at"
+   },
+   "license": "Commercial",
+   "commercial": "Yes",
+   "author": {
+      "name": "FOEX GmbH",
+      "email": "office@foex.at",
+      "url": "https://www.foex.at/",
+      "twitter":"@FOEXplugins"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/FOEXplugins/scheduler-by-foex.git"
+   },
+   "oracle": {
+      "versions": [
+         "11.2.0.4",
+         "12.1.0.1",
+         "12.2.0.1",
+         "18.0.0.0",
+         "19.0.0.0"
+      ],
+      "apex": {
+         "versions": [
+            "19.2.0",
+            "20.1.0",
+            "20.2.0",
+            "21.1.0",
+            "21.2.0"
+         ],
+         "plugin": {
+            "internalName": "COM.FOEX.PLUGIN.SCHEUDLER",
+            "type": "region",
+            "demo": "https://www.foex.at/ords/f?p=FOEX_SCHEDULER",
+            "previewImage": "https://raw.githubusercontent.com/FOEXplugins/scheduler-by-foex/master/foex-fue-apex-world-preview.png"
+         }
+      }
+   }
+}
