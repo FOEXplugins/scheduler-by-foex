@@ -46,7 +46,7 @@
             "internalName": "COM.FOEX.PLUGIN.SCHEUDLER",
             "type": "region",
             "demo": "https://www.foex.at/ords/f?p=FOEX_SCHEDULER",
-            "previewImage": "https://raw.githubusercontent.com/FOEXplugins/scheduler-by-foex/main/foex-scheduler-recurring-event-demo.gif"
+            "previewImage": "https://raw.githubusercontent.com/FOEXplugins/scheduler-by-foex/main/foex-scheduler-demo.gif"
          }
       }
    }
