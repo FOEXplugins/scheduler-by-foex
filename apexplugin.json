@@ -43,7 +43,7 @@
             "21.2.0"
          ],
          "plugin": {
-            "internalName": "COM.FOEX.PLUGIN.SCHEUDLER",
+            "internalName": "COM.FOEX.PLUGIN.SCHEDULER",
             "type": "region",
             "demo": "https://www.foex.at/ords/f?p=FOEX_SCHEDULER",
             "previewImage": "https://raw.githubusercontent.com/FOEXplugins/scheduler-by-foex/main/foex-scheduler-demo.gif"
